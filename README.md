@@ -1,9 +1,8 @@
 <div align="center">
 
 # Japharzadeh
-
+<img src="./profile-banner.png" width="100%" alt="Mohammad Japharzadeh - Energy Engineer & Developer">
 ### Python Developer & Energy Engineer
-![Uploading 2331bca0-989e-43c5-a64e-d9bcaa2fdfb9.png…]()
 
 <p>
 Building intelligent software, web applications, and energy engineering solutions.
